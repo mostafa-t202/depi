@@ -39,6 +39,7 @@
 <img width="650" alt="15-1" src="https://github.com/user-attachments/assets/a195be9c-6a3f-430d-9a7e-171bd14dc671">
 
 16- Run kubectl describe deployment deployment-1 and check events What is the deployment strategy used to upgrade the deployment-1? 
+
 <img width="446" alt="16" src="https://github.com/user-attachments/assets/fefd3d81-5a96-46c9-b70e-58924b08d780">
 
 17- Rollback the deployment-1 What is the used image with the deployment-1? 
